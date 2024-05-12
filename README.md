@@ -3,16 +3,13 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/yogeshkasar97/">
+  <a href="https://www.linkedin.com/in/pratiksha-goyal10">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/theyogeshkasar">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
   <div id="header" align="center">
 <div id="badges">
-   <img src="https://komarev.com/ghpvc/?username=yogeshkasar778&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=pratikshagoyal10&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>
  Hi there!
@@ -70,10 +67,10 @@ I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https:
 
 ### :fire: My Stats :
 
-   ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yogeshkasar778&margin-w=15)
+   ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=pratikshagoyal10&margin-w=15)
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogeshkasar778&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pratikshagoyal10&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
    
-   ![Yogesh Kasar GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshkasar778&theme=dark&show_icons=true)
+   ![Yogesh Kasar GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikshagoyal10&theme=dark&show_icons=true)
    ---
 
